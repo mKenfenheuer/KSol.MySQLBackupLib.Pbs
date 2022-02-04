@@ -4,6 +4,14 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <Authors>mkenfenheuer</Authors>
+    <Copyright>Maximilian Kenfenheuer</Copyright>
+    <PackageProjectUrl>https://github.com/mKenfenheuer/KSol.MySQLBackupLib.Pbs</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/mKenfenheuer/KSol.MySQLBackupLib.Pbs</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>mysql,backup,proxmox,pbs</PackageTags>
+    <PackageLicenseExpression>GPL-3.0-only</PackageLicenseExpression>
+    <Description>.Net Extension to enable Mysql Backups using KSol.MySQLBackupLib to Proxmox Backup Server </Description>
   </PropertyGroup>
 
   <ItemGroup>
