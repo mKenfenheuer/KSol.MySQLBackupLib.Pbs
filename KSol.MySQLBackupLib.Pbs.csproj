@@ -12,11 +12,14 @@
     <PackageTags>mysql,backup,proxmox,pbs</PackageTags>
     <PackageLicenseExpression>GPL-3.0-only</PackageLicenseExpression>
     <Description>.Net Extension to enable Mysql Backups using KSol.MySQLBackupLib to Proxmox Backup Server </Description>
+    <Version>1.0.1</Version>
+    <AssemblyVersion>1.0.1</AssemblyVersion>
+    <FileVersion>1.0.1</FileVersion>
   </PropertyGroup>
 
   <ItemGroup>
     <PackageReference Include="KSol.MySQLBackupLib" Version="1.0.0" />
-    <PackageReference Include="PbsClientDotNet" Version="1.0.1" />
+    <PackageReference Include="PbsClientDotNet" Version="1.0.2" />
   </ItemGroup>
 
 </Project>
