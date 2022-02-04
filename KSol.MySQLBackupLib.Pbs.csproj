@@ -15,7 +15,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\KSol.MySQLBackupLib\KSol.MySQLBackupLib.csproj" />
+    <PackageReference Include="KSol.MySQLBackupLib" Version="1.0.0" />
+    <PackageReference Include="PbsClientDotNet" Version="1.0.1" />
   </ItemGroup>
 
 </Project>
